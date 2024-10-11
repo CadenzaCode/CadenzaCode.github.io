@@ -134,7 +134,9 @@ h1:before {
 #    width: 20rem;
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: black;
-    color: white;
+    paint-order: stroke fill;
+    color: floralwhite;
+    /* color: #FFE9C9; */
 }
 
 #apps .description {
