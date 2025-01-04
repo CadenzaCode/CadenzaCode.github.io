@@ -1,0 +1,2 @@
+# app-ads.txt verification file for Cadenza Code
+google.com, pub-1775845997757536, DIRECT, f08c47fec0942fa0
