@@ -96,6 +96,13 @@ h1:before {
     padding-bottom: 3rem;
 }
 
+@media (max-width: 57rem) {
+    #apps.catalog {
+        width: 30rem;
+        grid-template-columns: 1fr;
+    }
+}
+
 #apps.about {
     width: 50rem;
     display: grid;
